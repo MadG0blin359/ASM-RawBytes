@@ -22,16 +22,16 @@ Assembly language provides unparalleled control over the system’s hardware and
 
 ## Folder Structure
 I've structured the repository to make it easy to navigate and locate specific assignments or practice sets.
-- **`Games/`**: Contains simple game projects in various languages for testing programming skills in game development.
+- **`Games/`**: Contains simple game projects in assembly for testing programming skills.
 - **`Practice ASM/`**: A collection of subfolders with assembly language exercises.
-  - **`Arithmetic Operations/`**: Programs demonstrating basic arithmetic operations (addition, subtraction, multiplication, etc.) in assembly.
-  - **`CMPs & JMPs/`**: Exercises focusing on comparison (CMP) and jump (JMP) instructions in assembly.
-  - **`Display Memory/`**: Programs that show how to display and manipulate memory locations in assembly.
+  - **`Arithmetic Operations/`**: Programs demonstrating basic arithmetic operations (addition, subtraction, multiplication, etc.).
+  - **`CMPs & JMPs/`**: Exercises focusing on comparison (CMP) and jump (JMP) instructions.
+  - **`Display Memory/`**: Programs that show how to display and manipulate memory locations.
   - **`Interrupts/`**: Examples of using interrupts in assembly for system-level operations.
-  - **`Logical Operations/`**: Programs demonstrating logical operations (AND, OR, NOT, XOR) in assembly.
+  - **`Logical Operations/`**: Programs demonstrating logical operations (AND, OR, NOT, XOR).
   - **`Stack/`**: Exercises on stack operations (push, pop) and memory management.
-  - **`String Operations/`**: Programs for string manipulation techniques, like searching and modifying strings in assembly.
-- **`Tools/`**: Utility programs and scripts for compiling, debugging, or running assembly code.
+  - **`String Operations/`**: Programs for string manipulation techniques, like searching and modifying strings.
+- **`Tools/`**: Utility programs like simple calculators etc.
 
 ## Features
 

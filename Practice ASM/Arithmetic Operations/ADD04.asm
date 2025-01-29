@@ -1,0 +1,7 @@
+[org 0x0100]
+
+mov ax, 0xFFFF
+add al, 0x1
+
+mov ax, 0x4c00
+int 21h
